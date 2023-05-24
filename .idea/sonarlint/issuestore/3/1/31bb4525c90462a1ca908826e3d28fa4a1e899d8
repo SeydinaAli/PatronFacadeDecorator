@@ -1,0 +1,8 @@
+
+z
+java:S4165	"dRemove this useless assignment; "muscle" already holds the assigned value along all execution paths.(èÚû
+P
+java:S1172".Remove this unused method parameter "muscles".(œ¶·úùÿÿÿÿ8¢Àè„1
+N	java:S106"9Replace this use of System.out or System.err by a logger.(õ¦‚Õ
+L
+java:S1656	"/Remove or correct this useless self-assignment.(èÚû8¾Àè„1
